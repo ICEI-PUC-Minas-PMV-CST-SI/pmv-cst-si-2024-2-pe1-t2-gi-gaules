@@ -90,3 +90,11 @@ Faz venda de comida brasileira, pizza, porções e sobremesas no próprio local,
 
 
 # Leis relacionadas a TI que impactam o negócio
+
+|Leis e Normas |Impacto na organização |
+|--------------|-----------------------|
+|Lei Geral de Proteção de Dados (LGPD) |Controle rigoroso sobre o acesso aos dados pessoais dos clientes, como nome, endereço e informações de pagamento. Acesso restrito a dados sensíveis, somente pela equipe responsável, e implementação de soluções para rastreamento, gestão e exclusão de dados pessoais conforme solicitado pelos clientes.|
+|Marco Civil |Garantia de privacidade e sigilo das comunicações online entre o restaurante e os clientes. O Gaulês deve assegurar que os dados coletados por meio do site, aplicativo e redes sociais sejam utilizados de maneira transparente e em conformidade com as regras estabelecidas pelo Marco Civil como a neutralidade no tratamento dos dados e privacidade.|
+|Lei de Crimes Cibernéticos (Lei nº 12.737/2012, conhecida como "Lei Carolina Dieckmann"|Implementação de medidas de segurança para proteger o sistema de TI do restaurante contra invasões, ataques cibernéticos e uso não autorizado de dados. O Gaulês deve estar ciente de que qualquer violação da segurança que resulte em dano aos clientes pode resultar em penalidades criminais. |
+|ISO 27001 |Implementação de um Sistema de Gestão de Segurança da Informação que assegura a confidencialidade, integridade e disponibilidade das informações. A adoção dessa norma ajuda a proteger as informações do restaurante contra ameaças, como ciberataques, vazamento de dados e garante a continuidade dos processos e negócio.|
+|ISO 27002 |Aplicação de boas práticas para a implementação de controles de segurança da informação. A ISO 27002 fornece diretrizes para a seleção e implementação de controles, o que ajuda a reforçar a segurança da infraestrutura de TI do restaurante e a proteção dos dados dos clientes.|
