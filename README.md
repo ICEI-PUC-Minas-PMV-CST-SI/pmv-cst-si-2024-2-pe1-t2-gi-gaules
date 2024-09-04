@@ -24,53 +24,25 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 
 # Etapa 1 
-`Conhecimento da Legislação de SEGURANÇA DA Informação`
+`Conhecimento da Legislação de Segurança da Informação`
 
 ## Compreendendo a organização 
 
-No decorrer desta dissertação, será abordada a história do Gaulês, restaurante temático especializado em comida brasileira à la carte, pizzas, porções e sobremesas, localizado em Belo Horizonte desde 1999. 
+O empresário por trás do restaurante "O Gaulês", NOME DO DONO , teve uma trajetória marcada por desafios e resiliência. Desde cedo, sua vida parecia confortável: seu pai, veterinário com uma granja, e sua mãe, uma mulher dedicada ao lar, proporcionavam uma infância feliz e estável. No entanto, essa estabilidade desmoronou quando seu pai abandonou a família, vendendo seus bens e deixando sua esposa e três filhos em dificuldades financeiras. 
 
-A trajetória desse restaurante tomou a direção do sucesso quando seu dono [NOME DO DONO] se viu frente a necessidade de enfrentar os desafios da vida. Quando ainda era um pequeno menino, com a vivência de 8 anos de idade, esse empresário vivia uma vida cômoda. Seu pai laborava como veterinário e possuía uma granja, tinha seu nome feito e era conhecido pelas redondezas. 
+Esse evento foi um divisor de águas na vida do jovem empreendedor, que, apesar da pouca idade, sentiu profundamente o impacto da crise familiar. A mãe lutou para sustentar os filhos, conseguindo eventualmente um emprego na Universidade Federal de Minas Gerais (UFMG), o que garantiu uma estabilidade futura. 
 
-Sua mãe, uma mulher humilde, apenas com seu ensino médio concluído, sempre muito atenciosa, era do lar e se dedicava única e inteiramente as atividades domésticas, contribuindo para o bom funcionamento da casa e da família. 
+Desde cedo, o empresário mostrou seu espírito empreendedor, trabalhando como mensageiro e participando de eventos comunitários. Ele alternou entre empregos e tentativas empreendedoras, incluindo a administração de um bar, uma mercearia e um trailer de sanduíches. Cada experiência contribuiu para sua formação e determinação. 
 
-[NOME DO DONO] tinha uma vida bela, serena, cercado por amor e por uma boa estrutura tanto familiar quanto financeira. Uma criança feliz. 
+O restaurante "O Gaulês" foi fundado em 1999 em Belo Horizonte e reflete a trajetória e o espírito inovador do empresário. A ideia surgiu após o sucesso de seu primeiro empreendimento, o "Druida", uma hamburgueria icônica da região. O "Gaulês" foi concebido em uma casa alugada e reformada, localizada em frente ao Druida. O nome "O Gaulês" é uma referência à tribo gaulesa mencionada nos quadrinhos de Asterix, alinhando-se com a temática dos seus empreendimentos anteriores. 
 
-Entretanto, essa realidade mudou drasticamente quando seu pai conheceu outra mulher. Ele abdicou de sua família e vendeu todos seus bens, deixando seus filhos e esposa à mercê da própria sorte. 
+Especializado em comida brasileira à la carte, pizzas, porções e sobremesas, o restaurante tornou-se um ponto de referência em Belo Horizonte, destacando-se pela qualidade e pela experiência gastronômica oferecida. Ao longo dos anos, "O Gaulês" recebeu chefes renomados e participou de eventos importantes, consolidando sua reputação. 
 
-A infância é uma estrada que pisamos a vida inteira, portanto, a atitude de seu pai refletiu eternamente no coração e na mente desse pequeno empreendedor, que era apenas uma criança feliz. 
-
-Ante a tristeza que escoava em abundância em seu coração, esse menino se fortaleceu com as muletas que as dores lhe deram e despertaram nele as chamas de um empresário, de coragem e bravura, com um único e certeiro objetivo: tirar sua família da situação de escassez. 
-
-Por se tratar de uma criança, [NOME DO DONO] ficou à deriva das forças de sua mãe, que se encontrava sem perspectiva de futuro, de emprego, dado ao acontecimento do abandono. 
-
-A família, agora composta por ele e seus dois irmãos, saiu do bairro Santo Antônio, localizado em região nobre de Belo Horizonte, para residir no bairro Cidade Nova, que não acompanhava a vida cômoda que desfrutavam. 
-
-A mãe, determinada a cuidar de seus filhos, foi atrás de sustento e incontáveis vezes retornou ao lar chorando, sentindo-se humilhada por não obter sucesso na busca por emprego. 
-
-Apesar de todos os obstáculos postos pela vida, ela não se deixou vencer e conseguiu uma vaga de trabalho na Universidade Federal de Minas Gerais (UFMG), onde conquistou sua graduação e, futuramente, aposentadoria. 
-
-Aos 14 anos, [NOME DO DONO] conseguiu seu primeiro emprego como mensageiro. Ele compartilhava o sonho de empreender com os amigos do bairro. Juntos, uniam o pouco de dinheiro que possuíam para organizar eventos em faculdades e participar com barracas de venda nos festivais das cidades, dividindo seu tempo entre os estudos e o trabalho. 
-
-Nesse percurso, o empresário concluiu seu ensino médio e entrou para a faculdade, mas, dada as circunstâncias, abandonou as 2 tentativas que fez. Nesse meio tempo ele trabalhou no Banco do Brasil como desenhista arquitetônico e depois foi trabalhar como caixa no Banco Nacional.   
-
-Mesmo com todas as adversidades da vida, a chama que ardia em seu peito aos 8 anos de idade ainda dançava incessantemente em seu coração, agora amadurecido. 
-
-Ele montou seu primeiro bar em um bairro precário com um colega de trabalho, mas, sentia que não era aquilo que o destino lhe reservara, então renunciou à sociedade e comprou uma mercearia com o seu irmão, entretanto, a fiscalização na época lhe gerou um trauma e depois abandonou essa ideia. Foi então que surgiu a oportunidade de comprar um trailer de sanduíche, algo que ele já pensava em criar e abrir na cidade. Era algo inovador! Em Belo Horizonte, havia apenas dois espalhados. 
-
-Ainda com sociedade com o seu irmão, surgiu a ideia de levar o trailer para Iriri, praia famosa na cidade de Anchieta no Espírito Santo, onde faziam, eles mesmos, os sanduiches se tornando um grande sucesso mesmo com toda a dificuldade de encontrar os insumos. 
-
-Anos depois, após perceber que o terreno de um vizinho bem próximo onde ele morava estava vazio, populado apenas por mato e entulhos, veio a ideia de montar uma estrutura de trailer naquele lugar para abrir a primeira hamburgueria da região nordeste de BH. Assim surgiu o Druida em 1981, nome esse inspirado nos quadrinhos do Asterix onde os Druidas eram mestres que preparavam poções mágicas para alimentar o povo e dar força. Isso após vários outros nomes pensados e a prefeitura não aprovar. O estabelecimento deu tão certo que existe até hoje e tem fama de ser o melhor “podrão” de Belo Horizonte com seu molho especial. 
-
-Com o passar dos anos, com a vida estável financeiramente, ele recebeu uma proposta de alugar uma casa em frente ao Druida para montar um novo negócio com sua esposa. Fizeram toda reforma para adequar o lugar ao seu propósito, dando vida e materializando O Gaulês, um restaurante de comida típica brasileira, onde já passaram chefes renomados que deixaram suas assinaturas em pratos e participaram de eventos por anos em BH. 
-
-O nome “O Gaulês” foi referente a tribo que habitava a Gália onde os Druidas residiam, tudo estava interligado. 
-
-Esse pequeno empreendedor, atualmente, é um homem cheio de forças e cicatrizes das dores infantis. Seu restaurante e suas conquistas são apenas o espelho da dor latente que a criança de 8 anos sentiu.
+O sucesso de "O Gaulês" é um testemunho da resiliência e da visão do empresário, que superou adversidades e transformou sua experiência pessoal em um legado de sucesso empresarial. 
 
 ## Missão 
 
-Ser uma empresa que fomenta e fortalece os laços entre pessoas. 
+Nossa missão é criar experiências memoráveis que reúnem amigos e familiares ao redor da mesa, oferecendo pratos deliciosos, preparados com amor, que nutrem tanto o corpo quanto o espírito. Acreditamos que a comida é o elo que fortalece laços, celebra momentos especiais e traz calor e alegria a cada encontro 
  
 ## Visão 
 
@@ -88,6 +60,78 @@ Faz venda de comida brasileira, pizza, porções e sobremesas no próprio local,
 
 # Os principais processos de negócios
 
+Exemplos de processos de negócio: 
+
+### Os processos podem ser agrupados em: 
+
+* Processos Financeiros e Contábeis:  
+
+* Processos de Vendas e Marketing:  
+
+* Processos de Manufatura e Produção:  
+
+* Processos de Recursos Humanos: 
+
+Dentro destes grupos temos os seguintes detalhamentos: 
+
+### 1 - Processos Financeiros e Contábeis:  
+
+* Contas a pagar: O total de contas a pagar é de R$; 
+
+* Gerenciamento e previsão de caixa: A previsão de fluxo de caixa permite que gestores enxerguem a saúde financeira futura da empresa, ajudando-os a tomar decisões informadas sobre investimentos, despesas, e gestão de recursos;  
+
+* Contabilidade de custos de produto: Calcular o custo individual e cada produtos e serviços;  
+contabilidade tributária: fazer o cálculo de imposto total do estabelecimento; 
+
+* Gerenciamento relatórios financeiros: Detalha a situação financeira ao longo de um período, detalhando receitas, despesas e lucro ou prejuízo; entrada e saída de dinheiro, ajudando a entender a gestão do caixa;  
+
+* Faturamento bruto.
+
+### 2 - Processos de Vendas e Marketing:  
+
+* Processamento de pedidos, cotações e contratos; 
+
+* Configuração de produtos; 
+
+* Determinação de preço ;
+
+* Faturamento;
+
+*  Gerenciamento de comissão, incentivos e planejamento de vendas;
+
+* Atendimento ao cliente; 
+
+* Desenvolvimento de promoções;  
+
+### 3 - Processos de Manufatura e Produção:  
+
+* Seleção de fornecedores: selecionar os melhores fornecedores de alimentos e bebidas; 
+
+* Gestão de estoque: controle de armazenamento de insumos; 
+
+* Expedição: saída/vendas de pratos para delivery, sobremesas, drinks e sucos naturais; 
+
+* Planejamento e programação de produção; 
+
+* Planejamento da necessidade de materiais; 
+
+* Controle de qualidade: controlar a qualidade dos pratos e drinks etc; 
+
+* Controle de fornecedor: pesquisa de fornecedor com melhor qualidade e preço; 
+
+* Produção de insumos: produzir os demais alimentos que serão consumidos no restaurante; 
+
+* Manutenção do delivery;
+
+* Fluxo de expedição: conferencia de produtos embalados, despacho e entrega dos pedidos.
+
+ 
+
+### 4 - Processos de Recursos Humanos: 
+
+* Pagamento de funcionários; 
+
+* Pagamento de freelances;  
 
 # Leis relacionadas a TI que impactam o negócio
 
@@ -98,3 +142,13 @@ Faz venda de comida brasileira, pizza, porções e sobremesas no próprio local,
 |Lei de Crimes Cibernéticos (Lei nº 12.737/2012, conhecida como "Lei Carolina Dieckmann"|Implementação de medidas de segurança para proteger o sistema de TI do restaurante contra invasões, ataques cibernéticos e uso não autorizado de dados. O Gaulês deve estar ciente de que qualquer violação da segurança que resulte em dano aos clientes pode resultar em penalidades criminais. |
 |ISO 27001 |Implementação de um Sistema de Gestão de Segurança da Informação que assegura a confidencialidade, integridade e disponibilidade das informações. A adoção dessa norma ajuda a proteger as informações do restaurante contra ameaças, como ciberataques, vazamento de dados e garante a continuidade dos processos e negócio.|
 |ISO 27002 |Aplicação de boas práticas para a implementação de controles de segurança da informação. A ISO 27002 fornece diretrizes para a seleção e implementação de controles, o que ajuda a reforçar a segurança da infraestrutura de TI do restaurante e a proteção dos dados dos clientes.|
+
+# Matriz de relacionamento de processos organizacionais e leis
+
+|Processo |Leis a serem observadas|
+|---------|-----------------------|
+|Processos de Vendas e Marketing|Marco Civil da Internet, LGPD: Observar o consentimento informado para o uso dos dados dos clientes em campanhas de marketing, evitando o envio de comunicação não solicitada via e-mail, WhatsApp e SMS, além de políticas de privacidade nas interações.|
+|Processos Financeiros e Contábeis|Lei de Crimes Cibernéticos, LGPD, ISO 27001: Implementação de medidas de segurança para proteção dos dados financeiros dos clientes, fornecedores e funcionários, como transações de pagamento, salários, formas de pagamentos e outros tipos de dados financeiros.|
+|Processos Manufatura e Produção|LGPD: Coleta e uso de dados sobre fornecedores e parceiros devem seguir as diretrizes da LGPD. |
+|Recursos Humanos |LGPD, Lei de Crimes Informáticos, ISO 27001, ISO 27002: Proteção de dados de funcionários como folha de pagamento, documentos, informações pessoais e avaliações de desempenho, garantindo que apenas pessoal autorizado tenha acesso.|
+|Políticas de Segurança da Informação|Lei de Crimes Cibernéticos, LGPD, ISO 27001, ISO 27002: Desenvolvimento de políticas de segurança da informação para prevenir e mitigar ataques cibernéticos e vazamentos de dados sensíveis, garantindo a confidencialidade, integridade e disponibilidade das informações.|
