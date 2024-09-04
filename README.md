@@ -127,7 +127,7 @@ Dentro destes grupos temos os seguintes detalhamentos:
 
 * Manutenção do delivery: atualizar todos os dias o aplicativo sobre os produtos de venda do dia para não gerar insatisfação aos clientes;
 
-* Fluxo de expedição: conferencia de produtos embalados, despacho e entrega dos pedidos.
+* Fluxo de expedição: conferência de produtos embalados, despacho e entrega dos pedidos.
 
  
 
