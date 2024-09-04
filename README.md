@@ -93,7 +93,7 @@ Dentro destes grupos temos os seguintes detalhamentos:
 
 * Determinação de preço ;
 
-* Faturamento, tickt médio das vendas;
+* Faturamento, ticket médio das vendas;
 
 *  Gerenciamento de comissão, incentivos e planejamento de vendas;
 
@@ -117,7 +117,7 @@ Dentro destes grupos temos os seguintes detalhamentos:
 
 * Planejamento e programação de produção: feito semanalmente baseado no ticekt médio de vendas; abrindo uma margem maior em determinadas datas de maior movimento;
 
-* Planejamento da necessidade de materiais: feito semanalmente baseado no tickt médio de vendas; abrindo uma margem maior em determinadas datas de maior movimento;
+* Planejamento da necessidade de materiais: feito semanalmente baseado no ticket médio de vendas; abrindo uma margem maior em determinadas datas de maior movimento;
 
 * Controle de qualidade: controlar a qualidade dos pratos e drinks etc; 
 
