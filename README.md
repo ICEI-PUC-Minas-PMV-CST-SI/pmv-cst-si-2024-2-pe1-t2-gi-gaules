@@ -3,11 +3,11 @@
 
 `CURSO: Segurança da Informação`
 
-`DISCIPLINA: Projeto - Projeto de Infraestrutura`
+`DISCIPLINA: Projeto - Fundamentos de Sistemas`
 
-`Eixo: 5`
+`Eixo: 1`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Estamos desenvolvendo um projeto para definir e detalhar um melhor software capaz de solucionar as necessidades dos clientes. Iremos planejar, executar e monitorar;
 
 ## Integrantes
 
@@ -70,7 +70,10 @@ Dentro destes grupos temos os seguintes detalhamentos:
 
 ### 1 - Processos Financeiros e Contábeis:  
 
-* Contas a pagar: O total de contas a pagar é de R$XXX,XX; 
+* Contas a pagar:
+* Insumos - R$200.000
+* Funcionários(fixos+freelances) - R$150.000
+* Despesas eventuais: r$10.000 
 
 * Gerenciamento e previsão de caixa: A previsão de fluxo de caixa permite que gestores enxerguem a saúde financeira futura da empresa, ajudando-os a tomar decisões informadas sobre investimentos, despesas, e gestão de recursos;  
 
@@ -80,7 +83,7 @@ Dentro destes grupos temos os seguintes detalhamentos:
 
 * Gerenciamento relatórios financeiros: Detalha a situação financeira ao longo de um período, detalhando receitas, despesas e lucro ou prejuízo; entrada e saída de dinheiro, ajudando a entender a gestão do caixa;  
 
-* Faturamento bruto.
+* Faturamento bruto - R$500.000
 
 ### 2 - Processos de Vendas e Marketing:  
 
@@ -90,25 +93,31 @@ Dentro destes grupos temos os seguintes detalhamentos:
 
 * Determinação de preço ;
 
-* Faturamento;
+* Faturamento, tickt médio das vendas;
 
 *  Gerenciamento de comissão, incentivos e planejamento de vendas;
 
-* Atendimento ao cliente; 
+* Atendimento ao cliente personalizado para melhor atende-los;
 
-* Desenvolvimento de promoções;  
+* Desenvolvimento de promoções:
+* As terças-feiras com rodadas de choop em dobro;
+* Promoções dos pratos especiais no delivery;
+* Sobremesa da casa para aniversariantes;
+* Desconto de 10% para reservas acima de 10 pessoas no almoço executivo, apenas durante a semana;
+
+* Divulgação, videos e fotos toda semana nas redes sociais dos pratos, saladas, bebidas e sobremesas.  
 
 ### 3 - Processos de Manufatura e Produção:  
 
 * Seleção de fornecedores: selecionar os melhores fornecedores de alimentos e bebidas; 
 
-* Gestão de estoque: controle de armazenamento de insumos; 
+* Gestão de estoque: controle de armazenamento de insumos, levantamento do que entrou e saiu em produção, bebidas, pizzas, pratos e petiscos;
 
 * Expedição: saída/vendas de pratos para delivery, sobremesas, drinks e sucos naturais; 
 
-* Planejamento e programação de produção; 
+* Planejamento e programação de produção: feito semanalmente baseado no tickt médio de vendas; abrindo uma margem maior em determinadas datas de maior movimento;
 
-* Planejamento da necessidade de materiais; 
+* Planejamento da necessidade de materiais: feito semanalmente baseado no tickt médio de vendas; abrindo uma margem maior em determinadas datas de maior movimento;
 
 * Controle de qualidade: controlar a qualidade dos pratos e drinks etc; 
 
@@ -116,7 +125,7 @@ Dentro destes grupos temos os seguintes detalhamentos:
 
 * Produção de insumos: produzir os demais alimentos que serão consumidos no restaurante; 
 
-* Manutenção do delivery;
+* Manutenção do delivery: atualizar todos os dias o aplicativo sobre os produtos de venda do dia para não gerar insatisfação aos clientes;
 
 * Fluxo de expedição: conferencia de produtos embalados, despacho e entrega dos pedidos.
 
@@ -124,9 +133,9 @@ Dentro destes grupos temos os seguintes detalhamentos:
 
 ### 4 - Processos de Recursos Humanos: 
 
-* Pagamento de funcionários; 
+* Contratação terceirizada de uma empresa de RH para eventuais contratações.  
 
-* Pagamento de freelancers;  
+  
 
 # Leis relacionadas a TI que impactam o negócio
 
