@@ -115,7 +115,7 @@ Dentro destes grupos temos os seguintes detalhamentos:
 
 * Expedição: saída/vendas de pratos para delivery, sobremesas, drinks e sucos naturais; 
 
-* Planejamento e programação de produção: feito semanalmente baseado no tickt médio de vendas; abrindo uma margem maior em determinadas datas de maior movimento;
+* Planejamento e programação de produção: feito semanalmente baseado no ticekt médio de vendas; abrindo uma margem maior em determinadas datas de maior movimento;
 
 * Planejamento da necessidade de materiais: feito semanalmente baseado no tickt médio de vendas; abrindo uma margem maior em determinadas datas de maior movimento;
 
