@@ -73,7 +73,7 @@ Dentro destes grupos temos os seguintes detalhamentos:
 * Contas a pagar:
 * Insumos - R$200.000
 * Funcionários(fixos+freelances) - R$150.000
-* Despesas eventuais: r$10.000 
+* Despesas eventuais: R$10.000 
 
 * Gerenciamento e previsão de caixa: A previsão de fluxo de caixa permite que gestores enxerguem a saúde financeira futura da empresa, ajudando-os a tomar decisões informadas sobre investimentos, despesas, e gestão de recursos;  
 
