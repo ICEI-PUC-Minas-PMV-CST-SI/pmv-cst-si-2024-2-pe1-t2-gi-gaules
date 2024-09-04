@@ -28,17 +28,11 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Compreendendo a organização 
 
-O empresário por trás do restaurante "O Gaulês", NOME DO DONO , teve uma trajetória marcada por desafios e resiliência. Desde cedo, sua vida parecia confortável: seu pai, veterinário com uma granja, e sua mãe, uma mulher dedicada ao lar, proporcionavam uma infância feliz e estável. No entanto, essa estabilidade desmoronou quando seu pai abandonou a família, vendendo seus bens e deixando sua esposa e três filhos em dificuldades financeiras. 
+Menelick, o homem por trás do restaurante O Gaulês, filho de um veterinário e de uma mãe dedicada ao lar, assistiu a sua vida desmoronar ainda na infância quando seu pai abandonou a família por conta de um caso extraconjugal. Esse evento foi um divisor de águas e viria a ser determinante na história do empreendedor.
 
-Esse evento foi um divisor de águas na vida do jovem empreendedor, que, apesar da pouca idade, sentiu profundamente o impacto da crise familiar. A mãe lutou para sustentar os filhos, conseguindo eventualmente um emprego na Universidade Federal de Minas Gerais (UFMG), o que garantiu uma estabilidade futura. 
+Fundado em 1999 em Belo Horizonte (BH), o restaurante reflete a trajetória e o espírito inovador do empresário. A ideia surgiu após o sucesso de seu primeiro empreendimento, uma hamburgueria icônica da região chamada Druida, e se consolidou em uma casa alugada e reformada que ficava em frente a própria hamburgueria. Os nomes, da hamburgueria e do restaurante, são uma referência à tribo gaulesa mencionada nos quadrinhos Asterix e unificam conceitualmente os empreendimentos.
 
-Desde cedo, o empresário mostrou seu espírito empreendedor, trabalhando como mensageiro e participando de eventos comunitários. Ele alternou entre empregos e tentativas empreendedoras, incluindo a administração de um bar, uma mercearia e um trailer de sanduíches. Cada experiência contribuiu para sua formação e determinação. 
-
-O restaurante "O Gaulês" foi fundado em 1999 em Belo Horizonte e reflete a trajetória e o espírito inovador do empresário. A ideia surgiu após o sucesso de seu primeiro empreendimento, o "Druida", uma hamburgueria icônica da região. O "Gaulês" foi concebido em uma casa alugada e reformada, localizada em frente ao Druida. O nome "O Gaulês" é uma referência à tribo gaulesa mencionada nos quadrinhos de Asterix, alinhando-se com a temática dos seus empreendimentos anteriores. 
-
-Especializado em comida brasileira à la carte, pizzas, porções e sobremesas, o restaurante tornou-se um ponto de referência em Belo Horizonte, destacando-se pela qualidade e pela experiência gastronômica oferecida. Ao longo dos anos, "O Gaulês" recebeu chefes renomados e participou de eventos importantes, consolidando sua reputação. 
-
-O sucesso de "O Gaulês" é um testemunho da resiliência e da visão do empresário, que superou adversidades e transformou sua experiência pessoal em um legado de sucesso empresarial. 
+Especializado em comida brasileira à la carte, pizzas, porções e sobremesas, o restaurante tornou-se um ponto de referência em BH, destacando-se pela qualidade e pela experiência gastronômica oferecida. Ao longo dos anos, O Gaulês recebeu chefes renomados e participou de eventos importantes, consolidando sua reputação. 
 
 ## Missão 
 
@@ -64,24 +58,25 @@ Exemplos de processos de negócio:
 
 ### Os processos podem ser agrupados em: 
 
-* Processos Financeiros e Contábeis:  
+* Processos Financeiros e Contábeis;  
 
-* Processos de Vendas e Marketing:  
+* Processos de Vendas e Marketing;  
 
-* Processos de Manufatura e Produção:  
+* Processos de Manufatura e Produção;  
 
-* Processos de Recursos Humanos: 
+* Processos de Recursos Humanos. 
 
 Dentro destes grupos temos os seguintes detalhamentos: 
 
 ### 1 - Processos Financeiros e Contábeis:  
 
-* Contas a pagar: O total de contas a pagar é de R$; 
+* Contas a pagar: O total de contas a pagar é de R$XXX,XX; 
 
 * Gerenciamento e previsão de caixa: A previsão de fluxo de caixa permite que gestores enxerguem a saúde financeira futura da empresa, ajudando-os a tomar decisões informadas sobre investimentos, despesas, e gestão de recursos;  
 
-* Contabilidade de custos de produto: Calcular o custo individual e cada produtos e serviços;  
-contabilidade tributária: fazer o cálculo de imposto total do estabelecimento; 
+* Contabilidade de custos de produto: Calcular o custo individual e cada produto e serviço;  
+
+* Contabilidade tributária: fazer o cálculo de imposto total do estabelecimento; 
 
 * Gerenciamento relatórios financeiros: Detalha a situação financeira ao longo de um período, detalhando receitas, despesas e lucro ou prejuízo; entrada e saída de dinheiro, ajudando a entender a gestão do caixa;  
 
@@ -131,7 +126,7 @@ contabilidade tributária: fazer o cálculo de imposto total do estabelecimento;
 
 * Pagamento de funcionários; 
 
-* Pagamento de freelances;  
+* Pagamento de freelancers;  
 
 # Leis relacionadas a TI que impactam o negócio
 
