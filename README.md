@@ -20,6 +20,6 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Orientador
 
-* Fabio Leandro Rodrigues Cordeiro
+* Fábio Leandro Rodrigues Cordeiro
 
 
