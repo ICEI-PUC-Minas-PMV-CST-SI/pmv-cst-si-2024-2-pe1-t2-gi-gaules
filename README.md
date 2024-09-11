@@ -133,7 +133,14 @@ Dentro destes grupos temos os seguintes detalhamentos:
 
 ### 4 - Processos de Recursos Humanos: 
 
-* Contratação terceirizada de uma empresa de RH para eventuais contratações.  
+* Contratação terceirizada de uma empresa de RH para eventuais contratações.
+* Todos os processos são feitos pelo dono: alocação de colaboradores, processos burocráticos, comunicação interna, folha de pagamento, demissões.
+  
+* Recrutamento e seleção: Encontrar os melhores perfis de pessoas, para cada cargo, com conhecimentos, habilidades e perfil de acordo com a empresa.
+  
+* Gestão de remuneração e benefícios: Gerir os salários e os benefícios dos funcionários.
+
+* Planejamento: Prevenir erros, eliminar problemas e aproveitar o talento dos funcionários.   
 
   
 
