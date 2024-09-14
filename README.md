@@ -20,7 +20,7 @@ Estamos desenvolvendo um projeto para definir e detalhar um melhor software capa
 
 ## Orientador
 
-* Fabio Leandro Rodrigues Cordeiro
+* Fábio Leandro Rodrigues Cordeiro
 
 
 # Etapa 1 
