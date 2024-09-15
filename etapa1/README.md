@@ -23,3 +23,7 @@ A empresa, em conformidade com as melhores práticas de governança e segurança
 ## Orientador
 
 * Fábio Leandro Rodrigues Cordeiro
+
+## Apresentação
+
+* A apresentação em vídeo pode ser acessada clicando [aqui](https://www.youtube.com/watch?v=9c4cIvjVJRI)
