@@ -27,3 +27,4 @@ A empresa, em conformidade com as melhores práticas de governança e segurança
 ## Apresentação
 
 * A apresentação em vídeo pode ser acessada clicando [aqui](https://www.youtube.com/watch?v=9c4cIvjVJRI)
+* Apresentação em vídeo da segunda etapa pode ser acessada clicando  [aqui](https://drive.google.com/drive/folders/1wGLk_9j2-kdd7IrVp0OMlaAVARdvCckh?usp=sharing).
