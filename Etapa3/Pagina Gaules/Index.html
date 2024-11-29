@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>App de Pedido de Comida</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Pedido de Comida</h1>
+        <nav>
+            <a href="#cadastro">Cadastro</a>
+            <a href="#pedido">Fazer Pedido</a>
+            <a href="#carrinho">Carrinho</a>
+            <a href="#checkout">Checkout</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="cadastro">
+            <h2>Cadastro</h2>
+            <form>
+                <input type="text" placeholder="Nome" required>
+                <input type="email" placeholder="Email" required>
+                <input type="password" placeholder="Senha" required>
+                <button type="submit">Cadastrar</button>
+            </form>
+        </section>
+
+        <section id="pedido">
+            <h2>Fazer Pedido</h2>
+            <div class="menu-item">
+                <h3>Pizza</h3>
+                <p>R$ 30,00</p>
+                <button onclick="adicionarAoCarrinho('Pizza', 30)">Adicionar ao Carrinho</button>
+            </div>
+            <div class="menu-item">
+                <h3>Burguer</h3>
+                <p>R$ 20,00</p>
+                <button onclick="adicionarAoCarrinho('Burguer', 20)">Adicionar ao Carrinho</button>
+            </div>
+            <!-- Adicione mais itens conforme necessário -->
+        </section>
+
+        <section id="carrinho">
+            <h2>Carrinho</h2>
+            <ul id="itens-carrinho"></ul>
+            <button id="btn-checkout">Finalizar Pedido</button>
+        </section>
+
+        <section id="checkout">
+            <h2>Checkout</h2>
+            <form id="form-checkout">
+                <input type="text" placeholder="Endereço" required>
+                <input type="text" placeholder="Cupom de Desconto" id="cupom">
+                <button type="submit">Confirmar Pedido</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Pedido de Comida</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
