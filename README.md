@@ -28,3 +28,5 @@ A empresa, em conformidade com as melhores práticas de governança e segurança
 
 * A apresentação em vídeo pode ser acessada clicando [aqui](https://www.youtube.com/watch?v=9c4cIvjVJRI)
 * Apresentação em vídeo da segunda etapa pode ser acessada clicando  [aqui](https://drive.google.com/drive/folders/1wGLk_9j2-kdd7IrVp0OMlaAVARdvCckh?usp=sharing).
+* Links da nossa interface pode ser acessado clicando [Aqui](https://pmv-cst-si-2024-2-pe1-t2-gi-gaules.vercel.app/) ou nessa outra plataforma clicando [Aqui](https://gustavohvb1.github.io/gaules-site/)
+* 
