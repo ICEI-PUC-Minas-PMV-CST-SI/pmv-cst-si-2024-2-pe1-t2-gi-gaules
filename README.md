@@ -16,9 +16,7 @@ A empresa, em conformidade com as melhores práticas de governança e segurança
 * Gabriele Gonçalves de Azevedo
 * Gabriella de Oliveira Rodrigues
 * Gustavo Henrique Valeriano de Brito
-* Jhoylan Gonçalves dos Santos
 * Matheus Campos Madeira
-* Robson Barreto Cavalcanti
 
 ## Orientador
 
